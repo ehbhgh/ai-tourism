@@ -1,0 +1,7 @@
+2025-01-06 16:00:01 [ERROR] error - 错误日志:{"status":401,"headers":{"content-encoding":"gzip","content-type":"application/json","date":"Mon, 06 Jan 2025 07:59:49 GMT","eagleeye-traceid":"ae7763d9ca80021e6013843d0c95cdbf","req-arrive-time":"1736150389375","req-cost-time":"10","resp-start-time":"1736150389386","server":"istio-envoy","set-cookie":"acw_tc=f25ec55d-dc23-92e4-8ad3-6d3dac406893c9c9dbdef99a8cd94924924181dd2ffc;path=/;HttpOnly;Max-Age=1800","transfer-encoding":"chunked","vary":"Origin,Access-Control-Request-Method,Access-Control-Request-Headers, Accept-Encoding","x-envoy-upstream-service-time":"10","x-request-id":"f25ec55d-dc23-92e4-8ad3-6d3dac406893"},"request_id":"f25ec55d-dc23-92e4-8ad3-6d3dac406893","error":{"message":"Incorrect API key provided. ","type":"invalid_request_error","param":null,"code":"invalid_api_key"},"code":"invalid_api_key","param":null,"type":"invalid_request_error"}
+2025-01-06 17:23:04 [ERROR] error - 错误日志:{}
+2025-01-06 17:24:50 [ERROR] error - 错误日志:{}
+2025-01-06 17:25:57 [ERROR] error - 错误日志:{}
+2025-01-06 17:27:31 [ERROR] error - 错误日志:{}
+2025-01-06 17:28:56 [ERROR] error - 错误日志:{}
+2025-01-06 17:31:02 [ERROR] error - 错误日志:{}

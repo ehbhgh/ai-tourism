@@ -1,0 +1,22 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": "> 0.25%, not dead",
+        "useBuiltIns": "entry", // 或 "usage"
+        "corejs": 3 // 或者使用 core-js 版本 3
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@": "./"
+        }
+      }
+    ]
+  ]
+}
