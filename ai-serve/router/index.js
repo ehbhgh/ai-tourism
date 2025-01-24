@@ -21,4 +21,10 @@ router.get("/queryWeather",callTool.queryWeather)
 //商品
 //新增商品
 router.post("/goods/add",goods.addGoods)
+
+//根据商品id查询详情
+router.post("/goods/detail",goods.queryGoodById)
+
+//根据关键字搜索商品
+router.post("/goods",goods.searchGoods)
 export default router
